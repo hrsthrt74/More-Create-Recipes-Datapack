@@ -1,0 +1,21 @@
+{
+  "type": "create:cutting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "farmersdelight:tatami"
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:full_tatami_mat",
+      "count": 2
+    }
+  ],
+  "processingTime": 200
+}

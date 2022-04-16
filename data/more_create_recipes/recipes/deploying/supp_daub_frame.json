@@ -1,0 +1,23 @@
+
+    {
+      "type": "create:deploying",
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "supplementaries"
+        }
+      ],
+      "ingredients": [
+        {
+          "item": "supplementaries:daub"
+        },
+        {
+          "item": "supplementaries:timber_frame"
+        }
+      ],
+      "results": [
+        {
+          "item": "supplementaries:daub_frame"
+        }
+      ]
+    }

@@ -1,0 +1,21 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:cobweb",
+      "count":1
+    }
+  ],
+  "results": [
+    {
+      "item":"minecraft:string",
+      "count":1
+    },
+    {
+      "item":"minecraft:string",
+      "count":1,
+      "chance":0.5
+    }
+  ]
+ 
+}

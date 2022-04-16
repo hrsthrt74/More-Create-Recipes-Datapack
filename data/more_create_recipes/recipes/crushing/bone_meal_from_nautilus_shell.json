@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:nautilus_shell"
+    }
+  ],
+  "results": [
+    {
+      "item":"minecraft:bone_meal",
+      "chance":0.5
+    }
+  ]
+ 
+}

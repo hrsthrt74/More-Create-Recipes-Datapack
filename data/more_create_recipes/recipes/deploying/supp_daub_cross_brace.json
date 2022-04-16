@@ -1,0 +1,22 @@
+    {
+      "type": "create:deploying",
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "supplementaries"
+        }
+      ],
+      "ingredients": [
+        {
+          "item": "supplementaries:daub"
+        },
+        {
+          "item": "supplementaries:timber_cross_brace"
+        }
+      ],
+      "results": [
+        {
+          "item": "supplementaries:daub_cross_brace"
+        }
+      ]
+    }

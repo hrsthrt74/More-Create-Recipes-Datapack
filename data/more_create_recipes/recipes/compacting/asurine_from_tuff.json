@@ -1,0 +1,30 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "forge:nuggets/zinc"
+    },
+    {
+      "tag": "forge:nuggets/zinc"
+    },
+    {
+      "tag": "forge:nuggets/zinc"
+    },
+    {
+      "tag": "forge:nuggets/zinc"
+    },
+    {
+      "item": "minecraft:tuff"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "create:asurine"
+    }
+  ]
+}

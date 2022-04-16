@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "supplementaries"
+    }
+  ],
+  "ingredients": [
+    {
+      "tag": "supplementaries:dyed_trapped_present"
+    }
+  ],
+  "results": [
+    {
+      "item": "supplementaries:trapped_present"
+    }
+  ]
+}

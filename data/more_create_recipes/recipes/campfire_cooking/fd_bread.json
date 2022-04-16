@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "ingredient": {
+    "item": "farmersdelight:wheat_dough"
+  },
+  "result": "minecraft:bread",
+  "experience": 0.0,
+  "cookingtime": 600
+}

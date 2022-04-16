@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "ingredients": [
+     {
+      "item": "create:wheat_flour"
+    },
+    {
+      "item": "create:wheat_flour"
+    },
+    {
+      "fluid": "create:honey",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:honey_cookie",
+      "count": 10
+    }
+  ],
+  "heatRequirement": "heated"
+}

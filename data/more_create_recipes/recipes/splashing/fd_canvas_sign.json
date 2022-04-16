@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "ingredients": [
+    {
+      "tag": "farmersdelight:dyed_canvas_sign"
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:canvas_sign"
+    }
+  ]
+}

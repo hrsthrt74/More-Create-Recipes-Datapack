@@ -1,0 +1,25 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:hay_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:wheat_flour",
+      "count": 9
+    },
+    {
+      "item": "create:wheat_flour",
+      "count": 18,
+      "chance": 0.25
+    },
+    {
+      "item": "minecraft:wheat_seeds",
+      "count": 9,
+      "chance": 0.25
+    }
+  ],
+  "processingTime": 250
+}

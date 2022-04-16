@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "supplementaries"
+    }
+  ],
+  "ingredients": [
+    {
+      "tag": "supplementaries:dyed_flag"
+    }
+  ],
+  "results": [
+    {
+      "item": "supplementaries:flag_white"
+    }
+  ]
+}

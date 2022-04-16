@@ -1,0 +1,17 @@
+
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:dirt"
+        },
+        {
+          "item": "minecraft:hanging_roots"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:rooted_dirt"
+        }
+      ]
+    }

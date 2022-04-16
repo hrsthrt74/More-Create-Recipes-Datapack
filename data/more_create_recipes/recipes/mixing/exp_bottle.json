@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+     {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "item": "create:experience_nugget"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:experience_bottle"
+    }
+  ],
+  "heatRequirement": "heated"
+}

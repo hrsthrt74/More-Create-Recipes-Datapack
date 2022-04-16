@@ -1,0 +1,31 @@
+{
+  "type": "create:crushing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "supplementaries"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "supplementaries:flax_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:string",
+      "count": 9
+    },
+    {
+      "item": "minecraft:string",
+      "count": 18,
+      "chance": 0.25
+    },
+    {
+      "item": "supplementaries:flax_seeds",
+      "count": 9,
+      "chance": 0.25
+    }
+  ],
+  "processingTime": 250
+}

@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cooking",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "supplementaries"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "item": "supplementaries:candy",
+    "count": 8
+  },
+  "container": {
+    "item": "minecraft:paper"
+  },
+  "cookingtime": 60
+}

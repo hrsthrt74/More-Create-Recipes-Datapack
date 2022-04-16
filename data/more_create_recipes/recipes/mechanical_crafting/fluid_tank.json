@@ -1,0 +1,19 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "SWS",
+    "S S",
+    "SWS"
+  ],
+  "key": {
+    "W": {
+      "tag": "forge:plates/copper"
+    },
+    "S": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "create:fluid_tank"
+  }
+}

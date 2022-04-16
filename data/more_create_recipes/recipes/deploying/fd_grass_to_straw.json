@@ -1,0 +1,25 @@
+
+    {
+      "type": "create:deploying",
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "farmersdelight"
+        }
+      ],
+      "ingredients": [
+        {
+          "item": "minecraft:grass"
+        },
+        {
+          "tag": "farmersdelight:straw_harvesters"
+        }
+      ],
+      "results": [
+        {
+          "item": "farmersdelight:straw",
+          "chance": 0.25
+        }
+      ],
+      "keepHeldItem": true
+    }

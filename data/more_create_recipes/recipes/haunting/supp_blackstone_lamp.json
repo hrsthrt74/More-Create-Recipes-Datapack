@@ -1,0 +1,19 @@
+{
+  "type": "create:haunting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "supplementaries"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "supplementaries:stone_lamp"
+    }
+  ],
+  "results": [
+    {
+      "item": "supplementaries:blackstone_lamp"
+    }
+  ]
+}

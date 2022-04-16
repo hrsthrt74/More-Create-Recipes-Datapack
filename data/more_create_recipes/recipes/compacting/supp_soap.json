@@ -1,0 +1,31 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "supplementaries:ash"
+    },
+    {
+      "item": "supplementaries:ash"
+    },
+    {
+      "item": "supplementaries:ash"
+    },
+    {
+      "item": "supplementaries:ash"
+    },
+    {
+      "item": "minecraft:porkchop"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "supplementaries:soap",
+      "count": 6
+    }
+  ]
+}

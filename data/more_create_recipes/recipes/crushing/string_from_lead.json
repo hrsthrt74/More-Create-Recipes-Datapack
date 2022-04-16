@@ -1,0 +1,17 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:lead",
+      "count":1
+    }
+  ],
+  "results": [
+    {
+      "item":"minecraft:string",
+      "count":1,
+      "chance":0.9
+    }
+  ]
+ 
+}

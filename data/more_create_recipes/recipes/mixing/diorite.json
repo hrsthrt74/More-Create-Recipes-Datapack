@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+     {
+      "tag": "forge:cobblestone/normal"
+    },
+    {
+      "item": "minecraft:quartz"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:diorite"
+    }
+  ]
+}

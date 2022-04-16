@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:bamboo"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:stick",
+      "count": 2
+    }
+  ],
+  "processingTime": 200
+}

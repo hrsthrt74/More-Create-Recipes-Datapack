@@ -1,0 +1,30 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "supplementaries"
+    }
+  ],
+  "ingredients": [
+     {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "forge:grain"
+    },
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "fluid": "minecraft:milk",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "item": "supplementaries:pancake",
+      "count": 3
+    }
+  ]
+}

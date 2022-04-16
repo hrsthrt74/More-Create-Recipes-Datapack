@@ -1,0 +1,22 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "SWS",
+    "SGS",
+    "SGS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "W": {
+      "tag": "minecraft:logs"
+    },
+    "G": {
+      "tag": "forge:plates/gold"
+    }
+  },
+  "result": {
+    "item": "minecraft:bell"
+  }
+}

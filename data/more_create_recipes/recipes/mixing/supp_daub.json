@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "supplementaries"
+    }
+  ],
+  "ingredients": [
+     {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "results": [
+    {
+      "item": "supplementaries:daub"
+    }
+  ]
+}

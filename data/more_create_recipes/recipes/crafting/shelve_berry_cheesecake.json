@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SCS",
+    " P "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sweet_berries"
+    },
+    "C": {
+      "item": "shelve:cheese"
+    },
+    "P": {
+      "item": "farmersdelight:pie_crust"
+    }
+  },
+  "result": {
+    "item": "farmersdelight:sweet_berry_cheesecake"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+     {
+      "item": "create:wheat_flour"
+    },
+    {
+      "item": "create:wheat_flour"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:cookie",
+      "count": 10
+    }
+  ],
+  "heatRequirement": "heated"
+}
