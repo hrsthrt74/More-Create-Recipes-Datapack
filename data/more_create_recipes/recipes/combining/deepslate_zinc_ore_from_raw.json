@@ -1,0 +1,17 @@
+{
+    "type": "mekanism:combining",
+    "mainInput": {
+        "amount": 8,
+        "ingredient": {
+            "tag": "forge:raw_materials/zinc"
+        }
+    },
+    "extraInput": {
+        "ingredient": {
+            "tag": "forge:cobblestone/deepslate"
+        }
+    },
+    "output": {
+        "item": "create:deepslate_zinc_ore"
+    }
+}

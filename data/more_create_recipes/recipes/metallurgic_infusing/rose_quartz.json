@@ -1,0 +1,15 @@
+{
+    "type": "mekanism:metallurgic_infusing",
+    "itemInput": {
+        "ingredient": {
+            "tag": "forge:gems/quartz"
+        }
+    },
+    "chemicalInput": {
+        "amount": 8,
+        "tag": "mekanism:redstone"
+    },
+    "output": {
+        "item": "create:rose_quartz"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "mekanism:combining", 
+    "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create"
+        }
+      ],
+    "mainInput": {
+        "ingredient": {
+            "item": "minecraft:andesite"
+        }
+    },
+    "extraInput": {
+        "ingredient": {
+            "tag": "forge:nuggets/iron"
+        }
+    },
+    "output": {
+        "item": "create:andesite_alloy"
+    }
+}

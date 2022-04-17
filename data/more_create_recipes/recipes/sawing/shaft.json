@@ -1,0 +1,12 @@
+{
+    "type": "mekanism:sawing",
+    "input": {
+        "ingredient": {
+            "item": "create:andesite_alloy"
+        }
+    },
+    "mainOutput": {
+        "item": "create:shaft",
+        "count": 6
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "mekanism:combining", 
+    "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create"
+        }
+      ],
+    "mainInput": {
+        "ingredient": {
+            "tag": "forge:ingots/zinc"
+        }
+    },
+    "extraInput": {
+        "ingredient": {
+            "item": "minecraft:copper_ingot"
+        }
+    },
+    "output": {
+        "item": "create:andesite_alloy"
+    }
+}
