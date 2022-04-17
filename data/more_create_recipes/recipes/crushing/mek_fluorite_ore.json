@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "mekanism:fluorite_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "mekanism:fluorite_gem",
+      "count": 5
+    },
+    {
+      "item": "mekanism:fluorite_gem",
+      "chance": 0.75
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.75
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 250
+}
