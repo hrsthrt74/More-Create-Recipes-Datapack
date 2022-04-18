@@ -1,0 +1,95 @@
+{
+  "type": "create:sequenced_assembly",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "ingredient": {
+    "item": "farmersdelight:shepherds_pie_block"
+  },
+  "transitionalItem": {
+    "item": "farmersdelight:shepherds_pie"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "farmersdelight:shepherds_pie"
+        },
+        {
+          "item": "minecraft:bowl"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:bowl"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "farmersdelight:shepherds_pie"
+        },
+        {
+          "item": "minecraft:bowl"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:bowl"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "farmersdelight:shepherds_pie"
+        },
+        {
+          "item": "minecraft:bowl"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:bowl"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "farmersdelight:shepherds_pie"
+        },
+        {
+          "item": "minecraft:bowl"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:bowl"
+        },
+        {
+          "item": "minecraft:bowl"
+        },
+        {
+          "item": "minecraft:bone"
+        }
+      ]
+    }
+  ],
+  
+  "results": [
+    {
+      "item": "farmersdelight:shepherds_pie",
+      "count": 4
+    }
+  ],
+  "loops": 1
+}

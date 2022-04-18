@@ -1,0 +1,50 @@
+{
+  "type": "create:sequenced_assembly",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "ingredient": {
+    "item": "minecraft:beef"
+  },
+  "transitionalItem": {
+    "item": "minecraft:beef"
+  },
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:beef"
+        }
+      ],
+      "results": [
+        {
+          "item": "farmersdelight:minced_beef"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "minecraft:beef"
+        }
+      ],
+      "results": [
+        {
+          "item": "farmersdelight:minced_beef"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:minced_beef",
+      "count": 2
+    }
+  ],
+  "loops": 1
+}

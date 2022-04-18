@@ -1,0 +1,95 @@
+{
+  "type": "create:sequenced_assembly",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "ingredient": {
+    "item": "farmersdelight:honey_glazed_ham_block"
+  },
+  "transitionalItem": {
+    "item": "farmersdelight:honey_glazed_ham"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "farmersdelight:honey_glazed_ham"
+        },
+        {
+          "item": "minecraft:bowl"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:bowl"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "farmersdelight:honey_glazed_ham"
+        },
+        {
+          "item": "minecraft:bowl"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:bowl"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "farmersdelight:honey_glazed_ham"
+        },
+        {
+          "item": "minecraft:bowl"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:bowl"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "farmersdelight:honey_glazed_ham"
+        },
+        {
+          "item": "minecraft:bowl"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:bowl"
+        },
+        {
+          "item": "minecraft:bowl"
+        },
+        {
+          "item": "minecraft:bone"
+        }
+      ]
+    }
+  ],
+  
+  "results": [
+    {
+      "item": "farmersdelight:honey_glazed_ham",
+      "count": 4
+    }
+  ],
+  "loops": 1
+}
