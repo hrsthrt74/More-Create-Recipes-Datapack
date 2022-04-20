@@ -1,0 +1,19 @@
+{
+  "type": "create:haunting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "nethersdelight"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "farmersdelight:red_mushroom_colony"
+    }
+  ],
+  "results": [
+    {
+      "item": "nethersdelight:crimson_fungus_colony"
+    }
+  ]
+}

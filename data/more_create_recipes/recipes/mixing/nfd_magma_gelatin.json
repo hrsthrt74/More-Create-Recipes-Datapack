@@ -1,0 +1,36 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "nethersdelight"
+    }
+  ],
+  "ingredients": [
+     {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "nethersdelight:propelpearl"
+    },
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "nethersdelight:magma_gelatin"
+    }
+  ],
+  "heatRequirement": "superheated"
+}

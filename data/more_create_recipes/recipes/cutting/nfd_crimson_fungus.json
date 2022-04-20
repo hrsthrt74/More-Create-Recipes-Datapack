@@ -1,0 +1,21 @@
+{
+  "type": "create:cutting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "nethersdelight"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "nethersdelight:crimson_fungus_colony"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:crimson_fungus",
+      "count": 5
+    }
+  ],
+  "processingTime": 200
+}
