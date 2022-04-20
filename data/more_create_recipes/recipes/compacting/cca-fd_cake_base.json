@@ -1,0 +1,32 @@
+{
+  "type": "create:compacting",
+  "conditions":[
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "createaddition"
+    }
+  ],
+  "ingredients": [
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "farmersdelight:wheat_dough"
+    }
+  ],
+  "results": [
+    {
+      "item": "createaddition:cake_base"
+    }
+  ]
+}
