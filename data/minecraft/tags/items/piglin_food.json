@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "farmersdelight:bacon",
+    "farmersdelight:cooked_bacon",
+    "farmersdelight:ham",
+    "farmersdelight:smoked_ham",
+    "nethersdelight:hoglin_ear"
+  ]
+}

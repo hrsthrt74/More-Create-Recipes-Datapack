@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "createaddition:gold_spool",
+    "createaddition:gold_wire",
+    "createaddition:gold_rod"
+  ]
+}
