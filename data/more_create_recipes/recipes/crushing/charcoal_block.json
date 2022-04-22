@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/charcoal"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:black_dye",
+      "count": 9
+    },
+    {
+      "item": "minecraft:gray_dye",
+      "count": 18,
+      "chance": 0.1
+    }
+  ],
+  "processingTime": 200
+}

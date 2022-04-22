@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:coal_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:black_dye",
+      "count": 18
+    },
+    {
+      "item": "minecraft:gray_dye",
+      "count": 9,
+      "chance": 0.1
+    }
+  ],
+  "processingTime": 200
+}
