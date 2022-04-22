@@ -1,23 +1,22 @@
-
+{
+  "type": "create:deploying",
+  "conditions": [
     {
-      "type": "create:deploying",
-      "conditions": [
-        {
-          "type": "forge:mod_loaded",
-          "modid": "shelve"
-        }
-      ],
-      "ingredients": [
-        {
-          "item": "shelve:instant_tnt"
-        },
-        {
-          "item": "minecraft:gunpowder"
-        }
-      ],
-      "results": [
-        {
-          "item": "minecraft:tnt"
-        }
-      ]
+      "type": "forge:mod_loaded",
+      "modid": "shelve"
     }
+  ],
+  "ingredients": [
+    {
+      "item": "shelve:instant_tnt"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:tnt"
+    }
+  ]
+}

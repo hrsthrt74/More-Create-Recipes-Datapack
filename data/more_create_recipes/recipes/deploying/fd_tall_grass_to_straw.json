@@ -1,25 +1,24 @@
-
+{
+  "type": "create:deploying",
+  "conditions": [
     {
-      "type": "create:deploying",
-      "conditions": [
-        {
-          "type": "forge:mod_loaded",
-          "modid": "farmersdelight"
-        }
-      ],
-      "ingredients": [
-        {
-          "item": "minecraft:tall_grass"
-        },
-        {
-          "tag": "farmersdelight:straw_harvesters"
-        }
-      ],
-      "results": [
-        {
-          "item": "farmersdelight:straw",
-          "chance": 0.25
-        }
-      ],
-      "keepHeldItem": true
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
     }
+  ],
+  "ingredients": [
+    {
+      "item": "minecraft:tall_grass"
+    },
+    {
+      "tag": "farmersdelight:straw_harvesters"
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:straw",
+      "chance": 0.25
+    }
+  ],
+  "keepHeldItem": true
+}

@@ -1,22 +1,22 @@
 {
-    "type": "mekanism:combining", 
-    "conditions": [
-        {
-          "type": "forge:mod_loaded",
-          "modid": "shelve"
-        }
-      ],
-    "mainInput": {
-        "ingredient": {
-            "item": "shelve:instant_tnt"
-        }
-    },
-    "extraInput": {
-        "ingredient": {
-            "item": "minecraft:gunpowder"
-        }
-    },
-    "output": {
-        "item": "minecraft:tnt"
-    }
+  "type": "mekanism:combining", 
+  "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "shelve"
+      }
+    ],
+  "mainInput": {
+      "ingredient": {
+          "item": "shelve:instant_tnt"
+      }
+  },
+  "extraInput": {
+      "ingredient": {
+          "item": "minecraft:gunpowder"
+      }
+  },
+  "output": {
+      "item": "minecraft:tnt"
+  }
 }

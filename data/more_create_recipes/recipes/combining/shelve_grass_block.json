@@ -1,22 +1,22 @@
 {
-    "type": "mekanism:combining", 
-    "conditions": [
-        {
-          "type": "forge:mod_loaded",
-          "modid": "shelve"
-        }
-      ],
-    "mainInput": {
-        "ingredient": {
-            "item": "minecraft:dirt"
-        }
-    },
-    "extraInput": {
-        "ingredient": {
-            "item": "shelve:turf"
-        }
-    },
-    "output": {
-        "item": "minecraft:grass_block"
-    }
+  "type": "mekanism:combining", 
+  "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "shelve"
+      }
+    ],
+  "mainInput": {
+      "ingredient": {
+          "item": "minecraft:dirt"
+      }
+  },
+  "extraInput": {
+      "ingredient": {
+          "item": "shelve:turf"
+      }
+  },
+  "output": {
+      "item": "minecraft:grass_block"
+  }
 }

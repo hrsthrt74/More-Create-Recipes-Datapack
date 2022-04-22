@@ -1,22 +1,22 @@
 {
-    "type": "mekanism:combining", 
-    "conditions": [
-        {
-          "type": "forge:mod_loaded",
-          "modid": "create"
-        }
-      ],
-    "mainInput": {
-        "ingredient": {
-            "item": "minecraft:copper_ingot"
-        }
-    },
-    "extraInput": {
-        "ingredient": {
-            "tag": "forge:ingots/zinc"
-        }
-    },
-    "output": {
-        "item": "create:brass_ingot"
-    }
+  "type": "mekanism:combining", 
+  "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "create"
+      }
+    ],
+  "mainInput": {
+      "ingredient": {
+          "item": "minecraft:copper_ingot"
+      }
+  },
+  "extraInput": {
+      "ingredient": {
+          "tag": "forge:ingots/zinc"
+      }
+  },
+  "output": {
+      "item": "create:brass_ingot"
+  }
 }

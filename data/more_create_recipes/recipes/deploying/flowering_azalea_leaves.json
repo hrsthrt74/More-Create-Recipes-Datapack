@@ -1,16 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
     {
-      "type": "create:deploying",
-      "ingredients": [
-        {
-          "item": "minecraft:azalea_leaves"
-        },
-        {
-          "item": "minecraft:bone_meal"
-        }
-      ],
-      "results": [
-        {
-          "item": "minecraft:flowering_azalea_leaves"
-        }
-      ]
+      "item": "minecraft:azalea_leaves"
+    },
+    {
+      "item": "minecraft:bone_meal"
     }
+  ],
+  "results": [
+    {
+      "item": "minecraft:flowering_azalea_leaves"
+    }
+  ]
+}

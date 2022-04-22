@@ -1,23 +1,22 @@
-
+{
+  "type": "create:deploying",
+  "conditions": [
     {
-      "type": "create:deploying",
-      "conditions": [
-        {
-          "type": "forge:mod_loaded",
-          "modid": "shelve"
-        }
-      ],
-      "ingredients": [
-        {
-          "item": "minecraft:dirt"
-        },
-        {
-          "item": "shelve:turf"
-        }
-      ],
-      "results": [
-        {
-          "item": "minecraft:grass_block"
-        }
-      ]
+      "type": "forge:mod_loaded",
+      "modid": "shelve"
     }
+  ],
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "shelve:turf"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:grass_block"
+    }
+  ]
+}

@@ -1,23 +1,22 @@
-
+{
+  "type": "create:deploying",
+  "conditions": [
     {
-      "type": "create:deploying",
-      "conditions": [
-        {
-          "type": "forge:mod_loaded",
-          "modid": "supplementaries"
-        }
-      ],
-      "ingredients": [
-        {
-          "item": "supplementaries:jar"
-        },
-        {
-          "tag": "minecraft:boats"
-        }
-      ],
-      "results": [
-        {
-          "item": "supplementaries:jar_boat"
-        }
-      ]
+      "type": "forge:mod_loaded",
+      "modid": "supplementaries"
     }
+  ],
+  "ingredients": [
+    {
+      "item": "supplementaries:jar"
+    },
+    {
+      "tag": "minecraft:boats"
+    }
+  ],
+  "results": [
+    {
+      "item": "supplementaries:jar_boat"
+    }
+  ]
+}
