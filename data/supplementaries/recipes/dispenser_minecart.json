@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "conditions": [
+      {
+        "type": "supplementaries:flag",
+        "flag": "dispenser_minecart"
+      },
+      {
+          "type": "forge:mod_loaded",
+          "modid": "supplementaries"
+      }
+    ],
+    "ingredients": [
+        {
+          "item": "minecraft:dispenser"
+        },
+        {
+          "item": "minecraft:minecart"
+        }
+      ],
+    "result": {
+      "item": "supplementaries:dispenser_minecart"
+    }
+  } 
