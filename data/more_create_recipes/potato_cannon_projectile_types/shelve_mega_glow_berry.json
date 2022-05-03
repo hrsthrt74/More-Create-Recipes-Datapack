@@ -1,0 +1,8 @@
+{
+  "items": [
+    "shelve:mega_glow_berry"
+  ],
+  "knockback": 2,
+  "damage": 8,
+  "reloadticks": 25
+}

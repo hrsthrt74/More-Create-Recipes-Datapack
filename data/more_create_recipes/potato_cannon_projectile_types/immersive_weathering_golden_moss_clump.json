@@ -1,0 +1,8 @@
+{
+  "items": [
+    "immersive_weathering:moss_clump"
+  ],
+  "knockback": 0.5,
+  "damage": 12,
+  "reloadticks": 15
+}

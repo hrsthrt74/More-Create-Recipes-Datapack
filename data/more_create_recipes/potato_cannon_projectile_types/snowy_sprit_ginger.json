@@ -1,0 +1,8 @@
+{
+  "items": [
+    "snowy_sprit:ginger"
+  ],
+  "knockback": 0.1,
+  "damage": 3,
+  "reloadticks": 10
+}

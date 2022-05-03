@@ -1,0 +1,9 @@
+{
+  "items": [
+    "shelve:cheese_cake"
+  ],
+  "knockback": 0.1,
+  "damage": 8,
+  "reloadticks": 15,
+  "sticky": true
+}

@@ -1,0 +1,8 @@
+{
+  "items": [
+    "quark:golden_frog_leg"
+  ],
+  "knockback": 0.5,
+  "damage": 14,
+  "reloadticks":18
+}
