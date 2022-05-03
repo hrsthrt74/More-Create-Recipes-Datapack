@@ -1,0 +1,23 @@
+{
+    "type": "create:deploying",
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "quark"
+      }
+    ],
+    "ingredients": [
+      {
+        "item": "quark:indigo_corundum"
+      },
+      {
+        "item": "minecraft:honeycomb_block"
+      }
+    ],
+    "results": [
+      {
+        "item": "quark:waxed_indigo_corundum"
+      }
+    ],
+    "keepHeldItem": true
+  }
