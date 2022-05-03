@@ -1,0 +1,30 @@
+{
+  "type": "create:crushing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "corn_delight"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "corn_delight:corn_crate"
+    }
+  ],
+  "results": [
+    {
+      "item": "corn_delight:corn_seeds",
+      "count": 18
+    },
+    {
+      "item": "corn_delight:corn_seeds",
+      "chance": 0.15,
+      "count": 18
+    },
+    {
+      "item": "farmersdelight:straw",
+      "count": 9
+    }
+  ],
+  "processingTime": 350
+}

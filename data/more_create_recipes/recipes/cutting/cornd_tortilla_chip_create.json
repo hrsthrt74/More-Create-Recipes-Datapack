@@ -1,0 +1,21 @@
+{
+  "type": "create:cutting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "corn_delight"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "corn_delight:tortilla"
+    }
+  ],
+  "results": [
+    {
+      "item": "corn_delight:tortilla_chip",
+      "count": 3
+    }
+  ],
+  "processingTime": 200
+}
