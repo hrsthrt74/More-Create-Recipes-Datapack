@@ -1,0 +1,26 @@
+{
+  "type": "create:crushing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "quark:cocoa_beans_sack"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:brown_dye",
+      "count": 18
+    },
+    {
+      "item": "minecraft:brown_dye",
+      "count": 9,
+      "chance": 0.10
+    }
+  ],
+  "processingTime": 350
+}

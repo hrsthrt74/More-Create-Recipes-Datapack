@@ -1,0 +1,19 @@
+{
+  "type": "create:haunting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "ingredients":[
+    {
+      "item": "quark:berry_sack"
+    }
+  ],
+  "results":[
+    {
+      "item": "quark:glowberry_sack"
+    }
+  ]
+}

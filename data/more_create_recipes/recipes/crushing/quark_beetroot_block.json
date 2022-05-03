@@ -1,0 +1,26 @@
+{
+  "type": "create:crushing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "quark:beetroot_crate"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:red_dye",
+      "count": 18
+    },
+    {
+      "item": "minecraft:beetroot_seeds",
+      "count": 9,
+      "chance": 0.10
+    }
+  ],
+  "processingTime": 350
+}
