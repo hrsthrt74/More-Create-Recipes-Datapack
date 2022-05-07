@@ -4,6 +4,10 @@
       {
         "id": "quark:iron_pillar",
         "required": false
+      },
+      {
+        "id": "mekanism:thermal_evaporation_block",
+        "required": false
       }
     ]
 }
