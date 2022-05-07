@@ -1,0 +1,19 @@
+{
+  "type": "create:haunting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersive_weathering"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "immersive_weathering:stone_brick"
+    }
+  ],
+  "results": [
+    {
+      "item": "immersive_weathering:blackstone_brick"
+    }
+  ]
+}
