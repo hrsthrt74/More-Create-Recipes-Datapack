@@ -1,6 +1,12 @@
 {
     "replace": false,
     "values": [
-      "mekanism:steel_casing"
+      "mekanism:steel_casing",
+      "quark:obsidian_pressure_plate",
+      "quark:redstone_randomizer",
+      "quark:magnet",
+      "quark:pipe",
+      "quark:chute",
+      "quark:ender_watcher"
     ]
 }
