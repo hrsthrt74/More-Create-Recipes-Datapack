@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersive_weathering"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "immersive_weathering:moss_clump"
+    },
+    {
+      "item": "immersive_weathering:moss_clump"
+    },
+    {
+      "item": "farmersdelight:wheat_dough"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:slime_ball"
+    }
+  ]
+}

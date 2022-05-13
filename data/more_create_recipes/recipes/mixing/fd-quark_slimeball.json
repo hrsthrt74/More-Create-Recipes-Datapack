@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "quark:moss_paste"
+    },
+    {
+      "item": "quark:moss_paste"
+    },
+    {
+      "item": "farmersdelight:wheat_dough"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:slime_ball"
+    }
+  ]
+}

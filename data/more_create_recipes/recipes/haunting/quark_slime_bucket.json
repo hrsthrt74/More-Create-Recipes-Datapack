@@ -1,0 +1,22 @@
+{
+  "type": "create:haunting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "ingredients":[
+    {
+      "item": "quark:slime_in_a_bucket"
+    }
+  ],
+  "results":[
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    }
+  ]
+}
