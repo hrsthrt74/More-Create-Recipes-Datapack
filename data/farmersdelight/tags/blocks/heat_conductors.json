@@ -8,6 +8,10 @@
       {
         "id": "mekanism:thermal_evaporation_block",
         "required": false
+      },
+      {
+        "id": "cyclic:hopper_gold",
+        "required": false
       }
     ]
 }
