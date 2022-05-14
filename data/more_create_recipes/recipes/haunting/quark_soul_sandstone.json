@@ -1,0 +1,19 @@
+{
+  "type": "create:haunting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "ingredients":[
+    {
+      "item": "minecraft:sandstone"
+    }
+  ],
+  "results":[
+    {
+      "item": "quark:soul_sandstone"
+    }
+  ]
+}

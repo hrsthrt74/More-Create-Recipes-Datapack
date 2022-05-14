@@ -1,0 +1,66 @@
+{
+  "type": "create:splashing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "ingredients": [
+    [
+      {
+        "item": "quark:red_framed_glass"
+      },
+      {
+        "item": "quark:orange_framed_glass"
+      },
+      {
+        "item": "quark:yellow_framed_glass"
+      },
+      {
+        "item": "quark:green_framed_glass"
+      },
+      {
+        "item": "quark:lime_framed_glass"
+      },
+      {
+        "item": "quark:blue_framed_glass"
+      },
+      {
+        "item": "quark:light_blue_framed_glass"
+      },
+      {
+        "item": "quark:cyan_framed_glass"
+      },
+      {
+        "item": "quark:magenta_framed_glass"
+      },
+      {
+        "item": "quark:purple_framed_glass"
+      },
+      {
+        "item": "quark:pink_framed_glass"
+      },
+      {
+        "item": "quark:white_framed_glass"
+      },
+      {
+        "item": "quark:gray_framed_glass"
+      },
+      {
+        "item": "quark:light_gray_framed_glass"
+      },
+      {
+        "item": "quark:black_framed_glass"
+      },
+      {
+        "item": "quark:brown_framed_glass"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "item": "quark:framed_glass"
+    }
+  ]
+}

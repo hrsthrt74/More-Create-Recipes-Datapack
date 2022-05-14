@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "ingredients": [
+    {
+      "tag": "quark:shards"
+    }
+  ],
+  "results": [
+    {
+      "item": "quark:clear_shard"
+    }
+  ]
+}

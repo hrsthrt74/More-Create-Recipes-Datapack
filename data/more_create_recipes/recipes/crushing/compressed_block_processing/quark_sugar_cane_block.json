@@ -1,0 +1,26 @@
+{
+  "type": "create:crushing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "quark:sugar_cane_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:sugar",
+      "count": 18
+    },
+    {
+      "item": "minecraft:sugar",
+      "count": 9,
+      "chance": 0.10
+    }
+  ],
+  "processingTime": 350
+}

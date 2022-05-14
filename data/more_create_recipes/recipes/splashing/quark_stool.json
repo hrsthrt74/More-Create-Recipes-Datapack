@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "ingredients": [
+    {
+      "tag": "quark:stools"
+    }
+  ],
+  "results": [
+    {
+      "item": "quark:white_stool"
+    }
+  ]
+}
