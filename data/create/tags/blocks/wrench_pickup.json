@@ -1,12 +1,34 @@
 {
     "replace": false,
     "values": [
-      "mekanism:steel_casing",
-      "quark:obsidian_pressure_plate",
-      "quark:redstone_randomizer",
-      "quark:magnet",
-      "quark:pipe",
-      "quark:chute",
-      "quark:ender_watcher"
+      {
+      "item": "mekanism:steel_casing",
+      "required": false
+      },
+      {
+        "item": "quark:obsidian_pressure_plate",
+        "required": false
+      },
+      {
+        "item": "quark:redstone_randomizer",
+        "required": false
+      },
+      {
+        "item": "quark:magnet",
+        "required": false
+      },
+      {
+        "item": "quark:pipe",
+        "required": false
+      },
+      {
+        "item": "quark:chute",
+        "required": false
+      },
+      {
+        "item": "quark:ender_watcher",
+        "required": false
+      }
+      
     ]
 }

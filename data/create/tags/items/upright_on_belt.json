@@ -1,8 +1,17 @@
 {
   "replace": false,
   "values": [
-    "supplementaries:jar",
-    "nethersdelight:magma_gelatin",
-    "quark:slime_in_a_bucket"
+    {
+    "item": "supplementaries:jar",
+    "required": false
+    },
+    {
+    "item": "nethersdelight:magma_gelatin",
+    "required": false
+    },
+    {
+    "item": "quark:slime_in_a_bucket",
+    "required": false
+    }
   ]
 }

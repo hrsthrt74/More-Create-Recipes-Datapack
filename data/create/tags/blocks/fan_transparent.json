@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-    "farmersdelight:basket"
+    {
+      "item": "farmersdelight:basket",
+      "required": false
+    }
   ]
 }

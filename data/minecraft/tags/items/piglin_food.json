@@ -1,10 +1,25 @@
 {
   "replace": false,
   "values": [
-    "farmersdelight:bacon",
-    "farmersdelight:cooked_bacon",
-    "farmersdelight:ham",
-    "farmersdelight:smoked_ham",
-    "nethersdelight:hoglin_ear"
+    {
+      "id": "farmersdelight:bacon",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooked_bacon",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:ham",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:smoked_ham",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:hoglin_ear",
+      "required": false
+    }
   ]
 }

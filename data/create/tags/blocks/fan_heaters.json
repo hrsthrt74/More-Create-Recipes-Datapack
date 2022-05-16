@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-    "nethersdelight:blackstone_stove"
+    {
+      "item": "nethersdelight:blackstone_stove",
+      "required": false
+    }
   ]
 }
