@@ -8,7 +8,7 @@ With this datapack, you can use items/blocks more conveniently with Create. This
 <h4>Supported Mods</h4>
 
 - Farmer's Delight
-- Neither's Delight
+- Nether's Delight
 - Corn Delight
 - Supplementaries
 - Mekanism
@@ -20,4 +20,4 @@ This Datapack **only** supports **Forge** and the **Forge** version of **Create*
 
 You can make a Fabric version of this datapack if you want.
 
-**NOTE:** If you want to download this datapack, please go to the Release page. Using the clone of the repo **may cause unexcepted bugs**!
+**NOTE:** If you want to download this datapack, please go to the Release page. Using the clone of the repo **may cause unexpected bugs**!
